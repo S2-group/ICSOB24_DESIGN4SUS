@@ -17,7 +17,7 @@ This is the root directory of the repository. The directory is structured as fol
      |--- data/
             |
             |--- ICSOB2024 - Appendices.pdf
-                    The file comprises all the appendices of the study, namely Appendix A. Sustainability Impacts of DIAL, Appendix B. Sustainability Impacts of IDP, Appendix C. Sustainability Concerns, Appendix D. Key Performance Indicators.
+                    The file comprises all the appendices of the study, namely Appendix A. Sustainability Impacts of Data Platform A, Appendix B. Sustainability Impacts of Data Platform B, Appendix C. Sustainability Concerns, Appendix D. Key Performance Indicators.
             |--- Interview_Guide_Phase_2.pdf
                     The file comprises the interview guide executed in Phase 2.
             |--- InterviewFocusGroup_Guide_Phase_3.pdf
