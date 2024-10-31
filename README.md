@@ -1,10 +1,8 @@
 # Designing for Sustainability when Architecture Standards are involved: an industrial Case Study
 This repository is a companion page for this study, containing all the appendices to provide more information for the interested reader.
 
-
-
 The study was carried out by the following researchers:
-* blinded for review
+* Markus Funke, Priyeta Saha, and Patricia Lago
   
 
 Repository Structure
